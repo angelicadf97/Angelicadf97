@@ -1,5 +1,5 @@
 ### Ooi! Eu sou a Angélica Flores
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/Angelicadf97">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Angelicadf97&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelicadf97&layout=compact&langs_count=7&theme=vue"/>
@@ -29,7 +29,7 @@
  
   ![Snake animation](https://github.com/Angelicadf97/Angelicadf97/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+</div> -->
 
 <!--
 **Angelicadf97/Angelicadf97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
